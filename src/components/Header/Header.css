@@ -1,0 +1,8 @@
+.banner{
+    background-image: url(../../images/banner.jpg);
+    height: 320px;
+    background-position: bottom;
+}
+.logo-img{
+    width: 200px;
+}
